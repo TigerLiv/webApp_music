@@ -9,6 +9,6 @@ cd vue-music
 
 npm或cnpm install 安装依赖
 
-npm或cnpm run dev
+npm或cnpm run dev  运行项目
 
-npm或cnpm run build
+npm或cnpm run build  打包项目
